@@ -1,5 +1,11 @@
 # Delta4
 
+## How to run this project
+* Copy link - https://github.com/Maverick-01/Delta4.git
+* Open any existing Android project.
+* Goto File -> New -> Project from version control -> Paste link
+* And click the clone button.
+
 ## Dependencies used in this project.
 * Retrofit - to fetch APIs.
 * Gson - to convert JSON to Java objects.
