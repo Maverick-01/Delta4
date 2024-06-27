@@ -14,7 +14,6 @@
 * Coroutine - to execute API methods on different threads.
 * LiveData - to manage state. And to observe.
 * ViewPager - shows different types of images on separate screens.
-* [Download Apk](https://drive.google.com/file/d/12NS1Bjs8Ql78w-X8Dk69XQBFSVyJSgaA/view?usp=sharing)
 
 ## Features
 * In this project implementation of the Android MVVM Architecture Pattern is done.
